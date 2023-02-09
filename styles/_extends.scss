@@ -1,0 +1,5 @@
+@use "variables";
+
+%defaultBorder {
+  border: 1px solid variables.$primaryColor;
+}
